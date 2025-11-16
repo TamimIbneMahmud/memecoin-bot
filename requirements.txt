@@ -1,1 +1,9 @@
 requests
+websockets
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+lightgbm
+python-dotenv
